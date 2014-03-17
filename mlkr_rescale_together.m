@@ -2,9 +2,9 @@
 
 % transform the data with MLKR
 
-data_dir = 'D:\devel\ml\datasets\kin\data'
-mlkr_dir = 'd:\devel\matlab\MLKR0.9'
-output_dir = 'D:\devel\ml\datasets\kin\data\mlkr2'	% different from data_dir because file names are the same
+data_dir = '/path/to/the/project/dir/data'
+mlkr_dir = '/path/to/MLKR0.9'
+output_dir = '/path/to/the/project/dir/data/rescaled_together'	% different from data_dir because file names are the same
 
 max_iterations = 50
 output_dimensionality = 8
