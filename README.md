@@ -3,7 +3,7 @@ Metric Learning for Kernel Regression
 
 See [http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction](http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/) for description.
 
-Download and install [MLKR](http://www.cse.wustl.edu/~kilian/code/code.html) (Matlab).
+Download and install [MLKR](http://www.cse.wustl.edu/~kilian/code/code.html) (Matlab; it doesn't seem to work in Octave).
 
 Edit paths in the following scripts and run them:
 
