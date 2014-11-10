@@ -1,4 +1,4 @@
-% run( 'D:/devel/ml/datasets/kin/matlab/kin_mlkr3.m' )
+% run( '/path/to/mlkr_rescale_separately.m' )
 
 % transform the data with MLKR
 
